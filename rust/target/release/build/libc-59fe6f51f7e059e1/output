@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-env-changed=RUST_LIBC_UNSTABLE_FREEBSD_VERSION
+cargo:rustc-cfg=freebsd12
+cargo:rerun-if-env-changed=RUST_LIBC_UNSTABLE_MUSL_V1_2_3
+cargo:rerun-if-env-changed=RUST_LIBC_UNSTABLE_LINUX_TIME_BITS64
+cargo:rerun-if-env-changed=RUST_LIBC_UNSTABLE_GNU_FILE_OFFSET_BITS
+cargo:rerun-if-env-changed=RUST_LIBC_UNSTABLE_GNU_TIME_BITS

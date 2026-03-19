@@ -1,0 +1,13 @@
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=src/gen/build.rs
+cargo:rerun-if-changed=version.rs
+cargo:rerun-if-env-changed=CARGO_ENCODED_RUSTFLAGS
+cargo:rerun-if-env-changed=RUSTFLAGS
+cargo:rerun-if-env-changed=CARGO_BUILD_RUSTFLAGS
+cargo:rerun-if-env-changed=CARGO_TARGET_X86_64_UNKNOWN_LINUX_GNU_RUSTFLAGS
+cargo:rustc-cfg=portable_atomic_no_diagnostic_namespace
+cargo:rustc-cfg=portable_atomic_no_const_mut_refs
+cargo:rustc-cfg=portable_atomic_no_strict_provenance
+cargo:rustc-cfg=portable_atomic_no_strict_provenance_atomic_ptr
+cargo:rustc-cfg=portable_atomic_pre_llvm_20
+cargo:rustc-cfg=portable_atomic_pre_llvm_18

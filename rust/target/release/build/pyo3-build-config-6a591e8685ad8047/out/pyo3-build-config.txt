@@ -1,0 +1,10 @@
+implementation=CPython
+version=3.10
+shared=true
+abi3=false
+lib_name=python3.10
+lib_dir=/usr/lib/x86_64-linux-gnu
+executable=/bin/python3
+pointer_width=64
+build_flags=
+suppress_build_script_link_lines=false
