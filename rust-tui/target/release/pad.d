@@ -1,0 +1,1 @@
+/home/chery/tools/kanban/rust-tui/target/release/pad: /home/chery/tools/kanban/rust-tui/src/main.rs /home/chery/tools/kanban/rust-tui/src/model.rs /home/chery/tools/kanban/rust-tui/src/scanner.rs /home/chery/tools/kanban/rust-tui/src/ui.rs

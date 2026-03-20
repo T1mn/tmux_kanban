@@ -1,0 +1,11 @@
+/home/chery/tools/kanban/rust-tui/target/debug/deps/libppv_lite86-7d34325b83ab31f9.rmeta: /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/lib.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/soft.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/types.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/chery/tools/kanban/rust-tui/target/debug/deps/libppv_lite86-7d34325b83ab31f9.rlib: /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/lib.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/soft.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/types.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/chery/tools/kanban/rust-tui/target/debug/deps/ppv_lite86-7d34325b83ab31f9.d: /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/lib.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/soft.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/types.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/lib.rs:
+/home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/soft.rs:
+/home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/types.rs:
+/home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/x86_64/mod.rs:
+/home/chery/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/x86_64/sse2.rs:

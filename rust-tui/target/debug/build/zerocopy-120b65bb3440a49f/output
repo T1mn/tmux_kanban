@@ -1,0 +1,5 @@
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=Cargo.toml
+cargo:rustc-cfg=no_zerocopy_simd_x86_avx12_1_89_0
+cargo:rustc-cfg=no_zerocopy_core_error_1_81_0
+cargo:rustc-cfg=no_zerocopy_diagnostic_on_unimplemented_1_78_0

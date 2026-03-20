@@ -1,0 +1,1 @@
+{"rustc":12047664292709028906,"features":"","target":0,"profile":0,"path":0,"deps":[[10466962800240179058,"build_script_build",false,9618375264738184203]],"local":[{"RerunIfChanged":{"output":"debug/build/parking_lot_core-f9ffa8872acbf02d/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
